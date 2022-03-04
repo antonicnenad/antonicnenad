@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @antonicnenad
+- 👋 Hi, I’m Nenad
 - 👀 I’m interested in front-end web development and QA testing
 - 🌱 I’m currently learning HTML, CCSS and JS
 - ⚡ Fun fact: I'm licenced drone pilot
